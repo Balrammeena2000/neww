@@ -6,3 +6,4 @@ Commit 4 - Changed something
 Commit 5 - Progressing
 Commit 6 - Work continues
 Commit 7 - More edits
+Commit 8 - Almost there
