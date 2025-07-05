@@ -2,3 +2,4 @@ This is my commit tracker file
 Commit 1 - Added line
 Commit 2 - Another update
 Commit 3 - Minor fix
+Commit 4 - Changed something
